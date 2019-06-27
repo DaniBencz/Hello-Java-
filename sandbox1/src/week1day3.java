@@ -82,14 +82,43 @@ public class week1day3 {
         int secondsRemaining = 86400 - secondsPast;
 
         System.out.println("seconds past: " + secondsPast);
-        System.out.println("seconds remaining: " +secondsRemaining);
+        System.out.println("seconds remaining: " + secondsRemaining);
     }
 
-    public static void helloUser(){
+    public static void helloUser() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter your name!");
-        
+
         String username = scanner.nextLine();
         System.out.println("Hello " + username + "!");
+    }
+
+    public static void kmToMl() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Miles to convert:");
+
+        double distanceInMiles = scanner.nextDouble();
+        System.out.println("In kilometers: " + distanceInMiles * 1.61);
+    }
+
+    public static void animalLegs() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Number of chickens:");
+        int chickens = scanner.nextInt();
+
+        System.out.println("Number of pigs:");
+        int pigs = scanner.nextInt();
+
+        System.out.println("There are " + ((pigs * 4) + (chickens * 2)) + " legs on this farm!");
+    }
+
+    public static void sumAndAverage() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Type 3 numbers");
+        int one = scanner.nextInt();
+        int two = scanner.nextInt();
+        int three = scanner.nextInt();
+
+        System.out.println("Sum: " + (one + two + three) + ", Average: " + ((one+two+three)/3));
     }
 }

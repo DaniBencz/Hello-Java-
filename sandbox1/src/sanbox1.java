@@ -20,7 +20,10 @@ public class sanbox1 {
         //week1day3.bmi();
         //week1day3.cuboid();
         //week1day3.remainingSeconds();
-        week1day3.helloUser();
+        //week1day3.helloUser();
+        //week1day3.kmToMl();
+        //week1day3.animalLegs();
+        week1day3.sumAndAverage();
     }
 
 }
