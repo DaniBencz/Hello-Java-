@@ -11,7 +11,8 @@ public class sanbox1 {
         //booleans.booleans1();
         //loops.loops1();
         //loops.loops2();
-        loops.loops3();
+        //loops.loops3();
+        week1day3.hello_others();
     }
 
 }
