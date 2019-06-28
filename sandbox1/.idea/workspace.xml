@@ -4,7 +4,7 @@
     <list default="true" id="502ee6ce-693c-421d-bb53-09b38b99e4a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sanbox1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sanbox1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1day3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1day4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,29 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sanbox1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="238">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/week1day3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="116" column="34" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/week1day4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            <state relative-caret-position="94">
+              <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -60,9 +48,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>dollars</find>
+      <find>base</find>
     </findStrings>
     <replaceStrings>
       <replace>euros</replace>
+      <replace>lines</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -76,15 +66,16 @@
         <option value="$PROJECT_DIR$/src/strings.java" />
         <option value="$PROJECT_DIR$/src/booleans.java" />
         <option value="$PROJECT_DIR$/src/loops.java" />
-        <option value="$PROJECT_DIR$/src/sanbox1.java" />
         <option value="$PROJECT_DIR$/src/week1day3.java" />
+        <option value="$PROJECT_DIR$/src/sanbox1.java" />
+        <option value="$PROJECT_DIR$/src/week1day4.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="40" />
     <option name="y" value="12" />
-    <option name="width" value="704" />
+    <option name="width" value="852" />
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -93,7 +84,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,6 +100,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -165,10 +156,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="12" width="704" height="688" extended-state="0" />
-    <editor active="true" />
+    <frame x="40" y="12" width="852" height="688" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1891892" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25631315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -177,7 +167,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28108108" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5117117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -254,27 +244,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week1day4.java">
+    <entry file="file://$PROJECT_DIR$/src/week1day3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        <state relative-caret-position="-1765">
+          <caret line="1" selection-start-line="1" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sanbox1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        <state relative-caret-position="238">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/week1day3.java">
+    <entry file="file://$PROJECT_DIR$/src/week1day4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="116" column="34" selection-start-line="116" selection-start-column="34" selection-end-line="116" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="94">
+          <caret line="50" column="23" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
         </state>
       </provider>
     </entry>
