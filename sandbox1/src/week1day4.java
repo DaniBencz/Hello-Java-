@@ -51,4 +51,40 @@ public class week1day4 {
             space = "";
         }
     }
+
+    public static void diamond() {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("How big a pyramid you want?");
+        int lines = scanner.nextInt();
+
+        if (lines % 2 == 0) {
+            lines -= 1;
+        }
+
+        String stars = "*";
+        String space = "";
+        int half = (lines - 1) / 2;
+
+        for (int i = (lines - 1); i > -1; i--) {
+            if (i >= half) {
+                for (int j = 0; j < (i - half); j++) {
+                    space += " ";
+                }
+                if (i != lines - 1) {
+                    stars = stars + "**";
+                }
+                System.out.println(space + stars);
+                space = "";
+
+            } else {
+                stars = "*";
+                for (int j = 0; j < i; j++) {
+                    stars = stars + "**";
+                }
+                space += " ";
+                System.out.println(space + stars);
+                stars = "*";
+            }
+        }
+    }
 }

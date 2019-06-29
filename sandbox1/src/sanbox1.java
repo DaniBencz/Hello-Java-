@@ -27,8 +27,8 @@ public class sanbox1 {
 
         //week1day4.bigger();
         //week1day4.varMutation();
-        week1day4.pyramid();
-        //week1day4.bigger();
+        //week1day4.pyramid();
+        week1day4.diamond();
         //week1day4.bigger();
 
 
