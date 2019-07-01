@@ -49,15 +49,13 @@ public class week2day1 {
 
     public static void factorio() {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("The integer of:");
+        System.out.println("The factorial of:");
         int n = scanner.nextInt();
         int f = n;
-        int c = n;
-        for (int i = 1; i < f; i++) {
-            n *= (c - 1);
-            c -= 1;
+        for (int i = n; i > 1; i--) {
+            f *= i;
         }
-        System.out.println("is: " + n);
+        System.out.println("is: " + f);
     }
 }
 
