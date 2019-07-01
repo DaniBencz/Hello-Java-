@@ -3,6 +3,7 @@ public class sanbox1 {
         //reformat code: ctrl+alt+L
         //move code-line: shift+alt+arrow
         //duplicate line: ctrl+D
+        //comment: ctrl+(shift)+/
 
         //System.out.println("Hello, World!");
         //integers.integers1();
@@ -28,10 +29,13 @@ public class sanbox1 {
         //week1day4.bigger();
         //week1day4.varMutation();
         //week1day4.pyramid();
-        week1day4.diamond();
-        //week1day4.bigger();
+        //week1day4.diamond();
 
-
+        //week2day1.array1();
+        //week2day1.array2();
+        //week2day1.array3();
+        //week2day1.array4();
+        week2day1.factorio();
 
 
     }
