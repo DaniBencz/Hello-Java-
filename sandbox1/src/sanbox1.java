@@ -35,7 +35,9 @@ public class sanbox1 {
         //week2day1.array2();
         //week2day1.array3();
         //week2day1.array4();
-        week2day1.factorio();
+        //week2day1.array5();
+        week2day1.array6();
+        //week2day1.factorio();
 
 
     }
